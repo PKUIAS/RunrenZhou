@@ -1,0 +1,21 @@
+- title: Home
+  url: /home/
+- title: Research
+  url: /research/
+- title: Blog
+  sublinks:
+  - title: Categories
+    url: /categories/
+  - title: Years
+    url: /years/
+  - title: Tags
+    url: /tags/
+- title: My Stories
+  sublinks:
+  - title: Biography
+    url: /biography/
+  - title: Photography
+    url: /photography/
+- title: Resume
+  url: /resume/
+
