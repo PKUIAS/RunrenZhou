@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b35f1b6-ef7e-43b9-981c-cdf46ebb48f8" name="Default Changelist" comment="" />
+    <list default="true" id="9b35f1b6-ef7e-43b9-981c-cdf46ebb48f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biography - 副本.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biography.md" beforeDir="false" afterPath="$PROJECT_DIR$/biography.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mVYixRi4nBEnGXND7gbMfY5vux" />
   <component name="ProjectViewState">
@@ -15,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -29,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609580355283</updated>
       <workItem from="1609580356947" duration="8197000" />
+      <workItem from="1609595556658" duration="703000" />
     </task>
     <servers />
   </component>
